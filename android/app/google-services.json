@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845476301455",
+    "project_id": "booket-d4fd5",
+    "storage_bucket": "booket-d4fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845476301455:android:168eefe7c8c88e88e93efa",
+        "android_client_info": {
+          "package_name": "com.example.salon_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6UmxFEucWA1ubZBOxC12J-JlMFwKzgUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
